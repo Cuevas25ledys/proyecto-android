@@ -1,0 +1,4 @@
+<!-- res/drawable/fondo.xml -->
+<bitmap xmlns:android="http://schemas.android.com/apk/res/android"
+    android:src="@drawable/fondo_imagena"
+    android:tileMode="repeat" />

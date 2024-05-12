@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="welcome_en">Welcome</string>
+    <string name="welcome_es">Bienvenido</string>
+    <string name="welcome_fr">Bienvenue</string>
+    <string name="welcome_de">Willkommen</string>
+    <string name="welcome_default">Welcome (Default)</string>
+</resources>
